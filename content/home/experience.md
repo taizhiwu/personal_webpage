@@ -29,11 +29,9 @@ experience:
     date_start: '2022-04-15'
     date_end: ''
     description: |2-        
-    	* Assisted research on ETF Flows and Currency Risk Premia
+        * Assisted research on ETF Flows and Currency Risk Premia
         * Sorted currency portfolios based on ETF flows
         * Performed Fama-Macbeth regressions
-
-
 
 
 design:
