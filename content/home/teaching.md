@@ -26,7 +26,7 @@ experience:
     company: Washington University in St. Louis
     company_url: 'www.wustl.edu'
     location: St. Louis
-    date_start: '2022-04-15'
+    date_start: '2022-08-15'
     date_end: ''
     description: |2-
         * FIN 441 Investments for Prof. Ilias Filippou (2021 Fall)
