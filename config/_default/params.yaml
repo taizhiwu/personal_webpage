@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: classic
-  font_size: m
+  font: minimal
+  font_size: L
 
 # SEO
 
@@ -74,7 +74,7 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
