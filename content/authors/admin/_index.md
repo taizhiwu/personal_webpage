@@ -69,7 +69,7 @@ highlight_name: true
 
 I am a master's student in quantitative finance at the Washington University In St. Louis. Currently, I am working as a research assistant with professor Ilias Filippou on the Country ETFs and Currency Premia research project. 
 
-I am also preparing my application to the Ph.D. program in finance/economics. While I find myself obsessed with asset pricing and macro-finance, I haven't married to what I have done so far. If you have similar goals as me, feel free to contact me!
+I am also preparing my application to the Ph.D. program in finance/economics. While I find myself obsessed with asset pricing and macro-finance, I haven't married to what I have done so far. If you share similar goals, feel free to contact me!
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Taizhi_Wu.pdf" "newtab" >}}resumé{{< /staticref >}}.
