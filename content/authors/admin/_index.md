@@ -27,7 +27,7 @@ education:
     - course: MS in Finance - Quantitative Track
       institution: Washington University In St. Louis
       year: 2022(expected)
-    - course: BSc in Financial Mathematics
+    - course: BEcon in Financial Mathematics
       institution: Southern University of Science and Technology
       year: 2021
 
