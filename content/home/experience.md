@@ -33,27 +33,17 @@ experience:
         * Sorted currency portfolios based on ETF flows
         * Performed Fama-Macbeth regressions
 
-  - title: Research Assistant for Dr. Dan Zhao
+  - title: Research Assistant for Prof. Ilias Fillipou
     company: Washington University in St. Louis
     company_url: 'www.wustl.edu'
     location: St. Louis
-    date_start: '2021-08-20'
-    date_end: '2022-06-31'
-    description:
-	* Assisted research on credit demand of individuals in areas narrowly missed by severe tornadoes
-	* Developed multiple DNN models for robustness checks 
-	* Performed SHapley Addictive exPlanations (SHAP) method
+    date_start: '2022-04-15'
+    date_end: ''
+    description: |2-        
+        * Assisted research on ETF Flows and Currency Risk Premia
+        * Sorted currency portfolios based on ETF flows
+        * Performed Fama-Macbeth regressions
 
-  - title: Teaching Assistant
-    company: Washington University in St. Louis
-    company_url: 'www.wustl.edu'
-    location: St. Louis
-    date_start: '2021'
-    date_end: '2022'
-    description:
-	* FIN 441 Investments for Prof. Ilias Filippou (2021 Fall)
-	* FIN 451 Options and Futures for Prof. Jian Cai (2022 Fall)
-	* FIN 532B Data Analysis for Investments for Prof. Guofu Zhou (2022 Fall)
 
 design:
   columns: '2'
