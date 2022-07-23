@@ -39,7 +39,7 @@ experience:
     company_url: 'www.wustl.edu'
     location: St. Louis
     date_start: '2021-08-20'
-    date_end: '2022-06-31'
+    date_end: ''
     description: |2- 
 	* Assisted research on credit demand of individuals in areas narrowly missed by severe tornadoes
 	* Developed multiple DNN models for robustness checks 
