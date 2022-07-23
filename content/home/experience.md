@@ -30,7 +30,6 @@ experience:
     date_end: ''
     description: |2-
         Assisted research on ETF Flows and Currency Risk Premia:
-	* Constructed currency excess returns as Lustig et al. 2012
         * Sorted currency portfolios based on ETF flows
         * Performed Fama-Macbeth regressions
 
