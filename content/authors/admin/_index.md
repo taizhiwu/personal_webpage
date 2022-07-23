@@ -6,7 +6,7 @@ title: Taizhi Wu
 superuser: true
 
 # Role/position/tagline
-role: Master Student in Quantitative Finance
+role: Master‘s Student in Quantitative Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
