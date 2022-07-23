@@ -49,6 +49,7 @@ experience:
     company_url: 'www.wustl.edu'
     location: St. Louis
     date_start: '2021'
+    date_end: '2022'
     description: |2-
 	* FIN 441 Investments for Prof. Ilias Filippou (2021 Fall)
 	* FIN 451 Options and Futures for Prof. Jian Cai (2022 Fall)
