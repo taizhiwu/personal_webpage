@@ -22,16 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching Assistant
+  - title: Research Assistant for Prof. Ilias Fillipou
     company: Washington University in St. Louis
     company_url: 'www.wustl.edu'
     location: St. Louis
-    date_start: '2021-08-20'
+    date_start: '2022-04-15'
     date_end: ''
     description: |2-
-	* FIN 441 Investments for Prof. Ilias Filippou (2021 Fall)
-	* FIN 451 Options and Futures for Prof. Jian Cai (2022 Fall)
-	* FIN 532B Data Analysis for Investments for Prof. Guofu Zhou (2022 Fall)
+        * Assisted research on ETF Flows and Currency Risk Premia
+        * Sorted currency portfolios based on ETF flows
+        * Performed Fama-Macbeth regressions
 
 
 design:
