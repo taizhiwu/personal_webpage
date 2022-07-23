@@ -33,17 +33,6 @@ experience:
         * Sorted currency portfolios based on ETF flows
         * Performed Fama-Macbeth regressions
 
-  - title: Teaching Assistant
-    company: Washington University in St. Louis
-    company_url: 'www.wustl.edu'
-    location: St. Louis
-    date_start: '2021'
-    date_end: '2022'
-    description: |2-
-	* FIN 441 Investments for Prof. Ilias Filippou (2021 Fall)
-	* FIN 451 Options and Futures for Prof. Jian Cai (2022 Fall)
-	* FIN 532B Data Analysis for Investments for Prof. Guofu Zhou (2022 Fall)
-
 design:
   columns: '2'
 ---
