@@ -29,7 +29,7 @@ experience:
     date_start: '2022-04-15'
     date_end: ''
     description: |2-
-        * Assisted research on ETF Flows and Currency Risk Premia
+        Assisted research on ETF Flows and Currency Risk Premia:
 	* Constructed currency excess returns as Lustig et al. (2012)
         * Sorted currency portfolios based on ETF flows
         * Performed Fama-Macbeth regressions
@@ -41,7 +41,7 @@ experience:
     date_start: '2021-08-15'
     date_end: '2022-04-14'
     description: |2-
-        * Assisted research on credit demand of individuals in areas narrowly missed by severe tornadoes
+        Assisted research on credit demand of individuals in areas narrowly missed by severe tornadoes:
         * Developed multiple DNN models for robustness checks
         * Performed SHapley Addictive exPlanations (SHAP) method
 
