@@ -27,12 +27,12 @@ experience:
     company_url: 'www.wustl.edu'
     location: St. Louis
     date_start: '2022-04-15'
-    date_end: ''
+    date_end: '2022-08-20'
     description: |2-
         Assisted research on ETF Flows and Currency Risk Premia:
         * Constructed currency excess returns as Lustig et al. (2012) 
         * Sorted currency portfolios based on ETF flows
-        * Performed Fama-Macbeth regressions
+        * Performed Fama-Macbeth regressions and GMM estimations
 
   - title: Research Assistant for Dr. Dan Zhao
     company: Washington University in St. Louis
