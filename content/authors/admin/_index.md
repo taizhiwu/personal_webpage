@@ -69,7 +69,7 @@ highlight_name: true
 
 I am a master's student in quantitative finance at the Washington University In St. Louis, and will be graduating in December 2022. 
 
-I am preparing my application for Ph.D. programs in finance/economics. While I find myself obsessed with asset pricing and macro-finance, I haven't married to what I have done so far. If you share similar goals, feel free to contact me!
+I am preparing my application for Ph.D. programs in finance/economics. I am very interested in macro finance and pricing, and I would like to do research to explore how asset prices can inform individuals and firms on how to deal with prospective financial crises. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Taizhi_Wu.pdf" "newtab" >}}resumé{{< /staticref >}}.
