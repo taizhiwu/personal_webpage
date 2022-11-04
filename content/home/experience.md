@@ -27,7 +27,7 @@ experience:
     company_url: 'www.wustl.edu'
     location: St. Louis
     date_start: '2022-04-15'
-    date_end: '2022-08-20'
+    date_end: ''
     description: |2-
         Assisted research on ETF Flows and Currency Risk Premia:
         * Constructed currency excess returns as Lustig et al. (2012) 
