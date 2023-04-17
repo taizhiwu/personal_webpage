@@ -26,7 +26,7 @@ education:
   courses:
     - course: PhD in Finance
       institution: Washington University in St. Louis
-      year: 2027 (expected)
+      year: 2028 (expected)
     - course: MS in Finance - Quantitative Track
       institution: Washington University In St. Louis
       year: 2022
@@ -70,7 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-Incoming Finance PhD Student @ WashU
-
+# About me here
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Taizhi_Wu.pdf" "newtab" >}}resumé{{< /staticref >}}.
