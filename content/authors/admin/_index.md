@@ -24,9 +24,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Finance
+      institution: Washington University in St. Louis
+      year: 2027 (expected)
     - course: MS in Finance - Quantitative Track
       institution: Washington University In St. Louis
-      year: 2022(expected)
+      year: 2022
     - course: BEcon in Financial Mathematics
       institution: Southern University of Science and Technology
       year: 2021
