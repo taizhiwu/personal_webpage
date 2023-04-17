@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: taizhi.wu@wustl.edu
-  phone: (314) 319 4769
   address:
     street: 1 Brookings Drive
     city: St. Louis

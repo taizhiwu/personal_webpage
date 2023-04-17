@@ -6,7 +6,7 @@ title: Taizhi Wu
 superuser: true
 
 # Role/position/tagline
-role: Master‘s Student in Quantitative Finance
+role: Incoming Finance PhD Student at WashU
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -67,9 +67,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a master's student in quantitative finance at the Washington University In St. Louis, and will be graduating in December 2022. 
-
-I am preparing my application for Ph.D. programs in finance/economics. I am very interested in macro finance and pricing, and I would like to do research to explore how asset prices can inform individuals and firms on how to deal with prospective financial crises. 
+Incoming Finance PhD Student @ WashU
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Taizhi_Wu.pdf" "newtab" >}}resumé{{< /staticref >}}.
