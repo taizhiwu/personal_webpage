@@ -6,12 +6,12 @@ title: Taizhi Wu
 superuser: true
 
 # Role/position/tagline
-role: Incoming Finance PhD Student at WashU
+role: Incoming Finance PhD Student @ WashU
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Washington University In St. Louis
-    url: https://www.wustl.edu/
+#organizations:
+#  - name: Washington University In St. Louis
+#    url: https://www.wustl.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include asset pricing, ETFs, currencies and order imbalances.
