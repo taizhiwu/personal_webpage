@@ -70,6 +70,5 @@ email: ''
 highlight_name: true
 ---
 
-# About me here
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume_Taizhi_Wu.pdf" "newtab" >}}resumé{{< /staticref >}}.
